@@ -8,8 +8,7 @@ library(parallel)
 # Set working directory
 
 # put your path here
-path <- "https://github.com/zlatataa/financial_climate_stress_testing/raw/refs/heads/main"  # change to final path of public github
-path <- "C:/Users/CD/Documents/GitHub/financial_climate_stress_testing"
+path <- "https://raw.githubusercontent.com/zlatataa/Supply_chain_adjusted_financial_climate_stress_testing/refs/heads/main/"  # change to final path of public github
 
 # Load custom functions for calculations
 source(paste0(path, "/functions_toy_model_CST.R"))  # Functions for defaults and financial losses
