@@ -1,4 +1,4 @@
-# financial_climate_stress_testing
+# Supply_chain_adjusted_financial_climate_stress_testing
 
 
 This repository contains scripts that implement the methodology presented in manuscript by Tabachova et.al. "Combined climate stress testing of supply-chain networks and the financial system" (2025). These scripts demonstrate key techniques and concepts from the paper, providing a practical example for further exploration and replication. Datasets used in the paper are confidential, hence we demonstrate the methodology on dummy datasets.
